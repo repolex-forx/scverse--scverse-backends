@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/scverse-backends/commit/dcb5383413b4fa976656116df554469235b4a6d5",
       "git:hexsha": "dcb5383413b4fa976656116df554469235b4a6d5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scverse/scverse-backends/commit/2328ae42420395b8491bb2bc5026e0bcbf69a096",
